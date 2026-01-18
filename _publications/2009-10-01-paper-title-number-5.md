@@ -3,8 +3,8 @@ title: "A new set of metrics for measuring the complexity of OCL expressions"
 collection: publications
 category: conference
 permalink: /publication/2024-verifying-ocl
-excerpt: 'Explores automated approaches to verify UML models that include OCL constraints, improving model-driven development with formal validation techniques.'
-date: 2024-01-01
+excerpt: ' Evaluating the complexity of OCL expressions remains a challenge, particularly in the context of verification'
+date: 2025-06-11
 venue: 'Software Technologies: Applications and Foundations (STAF)2025'
 paperurl: ''
 citation: 'A. Jha, R. Monahan, H. Wu (2025). "A new set of metrics for measuring the complexity of OCL expressions." <i>ACM/IEEE MODELS 2025</i>.'
