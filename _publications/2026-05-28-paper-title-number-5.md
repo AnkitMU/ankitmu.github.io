@@ -2,13 +2,13 @@
 title: "Automated Benchmark Generation for Object
 Constraint Language (OCL) with SMT-Based
 Verification"
-collection: Journal of Object Technology (JOT)
+collection: Publication
 category: Journal
 permalink: /publication/2026-ocl-benchmark-generation
 excerpt: 'A machine learning-based approach to improve handoff decisions in cognitive radio networks by predicting signal deterioration and optimizing spectrum usage.'
 date: 2026-05-18
-venue: ''
-paperurl: 'https://doi.org/10.1007/978-981-15-8443-5_2'
+venue: 'Journal of Object Technology'
+paperurl: 'to be appear'
 citation: citation: 'A. Jha, R. Monahan, H. Wu (2026). "Automated Benchmark Generation for Object Constraint Language (OCL) with SMT-Based Verification." <i>Journal of Object Technology</i>. Accepted at STAF 2026; to appear.'
 ---
 
