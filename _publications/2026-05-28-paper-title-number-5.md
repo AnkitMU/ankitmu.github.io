@@ -1,1 +1,15 @@
-2024-02-17-paper-title-number-4
+---
+title: "Automated Benchmark Generation for Object
+Constraint Language (OCL) with SMT-Based
+Verification"
+collection: Journal of Object Technology (JOT)
+category: conference
+permalink: /publication/2021-cognitive-radio-ml
+excerpt: 'A machine learning-based approach to improve handoff decisions in cognitive radio networks by predicting signal deterioration and optimizing spectrum usage.'
+date: 2021-01-01
+venue: ''
+paperurl: 'https://doi.org/10.1007/978-981-15-8443-5_2'
+citation: 'G. Wajhal, V. Dehalwar, A. Jha, K. Ogura, M. L. Kolhe (2021). "Proactive Handoff of Secondary User in Cognitive Radio Networks Using Machine Learning Techniques." <i>ICICCS, Springer</i>.'
+---
+
+OCL tools are growing but their evaluation still relies on small, manually selected and domain-specific examples. Existing OCL benchmarks typically lack scale, systematic coverage of OCL features and rarely verify whether constraints can hold simultaneously within a benchmark suite. This  makes rigorous tool comparison difficult. We present an automated framework for generating solver-verified OCL benchmark suites from UML/Ecore metamodels. The framework combines a library of over one hundred reusable constraint patterns, an adaptive coverage-guided generation engine and an SMT solver-based verification pipeline that labels each constraint as satisfiable (SAT) or unsatisfiable (UNSAT) under bounded semantics. Our framework ensures that only well-typed, semantically meaningful and solver-verified OCL constraints are generated. We evaluate the framework on ten UML/Ecore metamodels covering multiple OCL language features and generating 50–100 machine verified constraints per model which approximates the user-required constraints. We further use the generated benchmark to evaluate existing OCL tools from the literature, identify major research gaps such as complex string functions, nested quantifiers, conflicts in constraint and specific feature testing. These benchmark generation techniques will advance the state of the art through evaluation of existing and future tools.
