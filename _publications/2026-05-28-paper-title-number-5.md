@@ -1,6 +1,5 @@
 ---
-title: "Automated Benchmark Generation for Object
-Constraint Language (OCL) with SMT-Based Verification"
+title: "Automated Benchmark Generation for Object Constraint Language (OCL) with SMT-Based Verification"
 collection: Publication
 category: Journal
 permalink: /publication/2026-ocl-benchmark-generation
