@@ -3,7 +3,7 @@ title: "Automated Benchmark Generation for Object Constraint Language (OCL) with
 collection: Publication
 category: Journal
 permalink: /publication/2026-ocl-benchmark-generation
-excerpt: 'A machine learning-based approach to improve handoff decisions in cognitive radio networks by predicting signal deterioration and optimizing spectrum usage.'
+excerpt: 'Evaluating modern OCL tools has always been tricky due to a lack of scalable, diverse and verified benchmarks. To fix this, we built an automated framework that generates solver-verified OCL benchmark suites directly from UML/Ecore metamodels.'
 date: 2026-05-18
 venue: 'Journal of Object Technology (JOT)'
 paperurl: 'to be appear'
